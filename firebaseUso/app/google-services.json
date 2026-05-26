@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "206783614145",
+    "firebase_url": "https://repositoriofb-3a06b-default-rtdb.firebaseio.com",
+    "project_id": "repositoriofb-3a06b",
+    "storage_bucket": "repositoriofb-3a06b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206783614145:android:8e6ba3d81203e142f11840",
+        "android_client_info": {
+          "package_name": "com.marceloav.firebaseuso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA61JcUAG2VcMpjQ19P2Ne7ij4gJ5xwUos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

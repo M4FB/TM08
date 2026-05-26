@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Registro Estudiantes</string>
+    <string name="hint_nombre">Nombre del estudiante</string>
+    <string name="hint_carrera">Carrera</string>
+    <string name="hint_curso">Curso / Ciclo</string>
+    <string name="btn_guardar">Guardar Estudiante</string>
+    <string name="btn_ver_lista">Ver Listado</string>
+    <string name="title_listado">Listado de Estudiantes</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="msg_guardado">Estudiante guardado</string>
+    <string name="msg_actualizado">Estudiante actualizado</string>
+    <string name="msg_eliminado">Estudiante eliminado</string>
+    <string name="msg_error">Error en la operación</string>
+    <string name="prompt_edit_nombre">Nuevo Nombre</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_modificar">Modificar</string>
+
+    <string-array name="seccion">
+        <item>Ing. de Sistemas</item>
+        <item>Ing. Informática</item>
+        <item>Ing. de Software</item>
+    </string-array>
+
+    <string-array name="asignaturas">
+        <item>Inteligencia Artificial</item>
+        <item>Tecnologías Móviles</item>
+        <item>Bussines Intelligence</item>
+        <item>Programación Web</item>
+    </string-array>
+</resources>
